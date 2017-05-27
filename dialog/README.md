@@ -6,3 +6,4 @@
 * [Intresting]() Learning End-to-End Goal-Oriented Dialog [[ICLR]](https://arxiv.org/pdf/1605.07683.pdf)
 * Sequence to backward and forward sequences: A content-introducing approach to generative short-text conversation [[arXiv]](https://arxiv.org/pdf/1607.00970.pdf)
 * [Important]() Topic Aware Neural Response Generation [[AAAI]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14563/14260)
+* A Neural Conversational Model [[arXiv]](https://arxiv.org/pdf/1506.05869.pdf)

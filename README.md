@@ -3,6 +3,8 @@
 
 * Attention-over-attention Neural Network for **_Reading Comprehension_** [[arXiv]](https://arxiv.org/pdf/1607.04423.pdf)
 
+* Generating Sentences from a Continuous Space [[ICLR]](https://arxiv.org/pdf/1511.06349.pdf)
+
 # To Be Continued
 * [Neural Net Models of Open-domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf)
 * [Sequence-level knowledge distillation](https://arxiv.org/pdf/1606.07947?__hstc=36392319.43051b9659a07455a3db8391a8f20ea4.1480118400085.1480118400086.1480118400087.1&__hssc=36392319.1.1480118400088&__hsfp=528229161)
